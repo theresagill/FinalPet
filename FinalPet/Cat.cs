@@ -39,6 +39,7 @@ namespace FinalPet
         public Cat(int food, int water,Image incomingImage)
 
         {
+
             CurrentImage = incomingImage;
             PetImage = Properties.Resources.cat;
             PetEatingImage = Properties.Resources.cateating;
