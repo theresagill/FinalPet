@@ -14,6 +14,7 @@ namespace FinalPet
     class Bird : Pet
     {
         //fields
+        //extra comment
         int birdHunger = 5;
         int minimalAppetite = 6;
         int birdThirst = 5;
