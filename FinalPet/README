@@ -1,0 +1,4 @@
+This is a final project for a college class in Fall 2019. We used c# and Visual Studio 2019. 
+We used the book Head First C#.  We learned aboutr design patterns.  This program attempts
+to use the state design pattern, although more code could be moved out of the main loop and 
+into the "states".
